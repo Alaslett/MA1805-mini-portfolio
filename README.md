@@ -1,3 +1,3 @@
 # MA1805-mini-projects
 
-01 Drawing: 
+01 Drawing: My emoji reveals complexity by showing a grey emoji surrounded by coloured symbols around their head. I chose these colours as it represents how the individual has been drained by their complex (colourful) thoughts and trying to make sense of them. I have exaggerated this further by writing a hidden message in the form of binary code so the viewer themselves experiences the same complex feeling by helping the individual make sense of their thoughts and figure out what the binary says. I also incorporated eyes pointing in separate directions to represent how the emoji is muddled and confused.
