@@ -78,10 +78,6 @@ stroke('cyan');
 strokeWeight(4)
 line(360, 250, 380, 230);
 
-
-
-
-
 //Left
 stroke ('Green');
 strokeWeight(4);
@@ -100,7 +96,6 @@ fill('Blue');
 text('01100011', 210, 250);
 
 describe('binary for the letter c in blue'); 
-
 
 textSize(17);
 stroke('green');
@@ -141,6 +136,6 @@ stroke('Hotpink');
 strokeWeight(5);
 line (270, 210, 300, 210);
 
-
+describe('A yellow and pink line creating an equals sign);
   }
   
