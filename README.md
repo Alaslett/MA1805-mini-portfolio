@@ -1,6 +1,6 @@
 # MA1805-mini-projects
 
-https://github.com/Alaslett/ma1805-mini-portfolio?tab=readme-ov-file#ma1805-mini-projects
+https://github.com/Alaslett/ma1805-mini-portfolio
 
 [01.drawing](01.drawing/index.html) 
 [02.movement](02.movement/index.html) 
