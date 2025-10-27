@@ -1,6 +1,6 @@
 # MA1805-mini-projects
 
-https://alaslett.github.io/ma1805-mini-portfolio/
+https://alaslett.github.io/MA1805-mini-portfolio/
 
 [01.drawing](01.drawing/index.html) 
 [02.movement](02.movement/index.html) 
